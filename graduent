@@ -1,0 +1,21 @@
+body {
+	background: rgb(181,16,16);
+    background: linear-gradient(3deg, rgba(181,16,16,1) 0%, rgba(146,67,18,1) 29%, rgba(205,221,7,1) 62%, rgba(0,56,255,1) 100%); 
+    height: 100vh;
+    font-family: 'Ephesis', cursive;
+    color: white;
+}<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Закат</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="T.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ephesis&display=swap" rel="stylesheet"> 
+</head>
+<body>
+	Фон заката.
+</body>
+</html>
